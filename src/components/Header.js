@@ -1,7 +1,7 @@
 import React from 'react'; // import react to have access to all his funtionalities
 import '../styles.css'; // two points then we are in component folder
 
-export default function header(){
+export default function Header(){
     return(
         <div className='header'>
             <img className='logo' src='logo.png' alt='moviedux' />
